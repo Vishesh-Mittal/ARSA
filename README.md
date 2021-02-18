@@ -5,7 +5,7 @@ Amazon review sentiment analysis
 Got the idea from the so much data available on customers reviews 
 
 ## Acknowledgements
-Dataset used :
+Dataset used :https://nijianmo.github.io/amazon/index.html
 
 ## APP
 <img src="images/loading.png" width="300" height="600">
